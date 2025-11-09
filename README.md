@@ -1,4 +1,3 @@
-
 # 💻 Professional Web Portfolio
 
 A personal portfolio website built with **React** and **Tailwind CSS**, showcasing projects, skills and contact information. Designed to be responsive, modern and easy to maintain.
@@ -9,7 +8,7 @@ A personal portfolio website built with **React** and **Tailwind CSS**, showcasi
 
 ## 🚀 Live Demo
 
-Check out the live demo: **[Live Demo](https://urjiiko1.github.io/Portfolio/)**
+Check out the live demo: **[Live Demo](https://LukhanyoDaniel.github.io/Lukhanyo-s-Portfolio_/)**
 
 ---
 
